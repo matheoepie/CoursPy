@@ -1,0 +1,5 @@
+1/ Les url avec http://.../index.php?option=com.../
+2/ IPV4 PIV6
+3/ URL lenght
+4/verify UTF8 nb de caractère spéciaux
+5/nb de point
